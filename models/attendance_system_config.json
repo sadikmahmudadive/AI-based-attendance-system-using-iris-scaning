@@ -1,0 +1,20 @@
+{
+  "model_path": "d:\\Code\\AI\\Face Recognition using Iris scanning\\models\\efficientnetv2_attendance.keras",
+  "label_encoder_path": "d:\\Code\\AI\\Face Recognition using Iris scanning\\models\\le_master.joblib",
+  "enrollment_db_path": "d:\\Code\\AI\\Face Recognition using Iris scanning\\models\\enrollment_database.json",
+  "config": {
+    "img_size": 224,
+    "confidence_threshold": 0.7,
+    "duplicate_window_minutes": 30,
+    "work_start_hour": 9,
+    "work_end_hour": 17,
+    "late_threshold_minutes": 15
+  },
+  "metrics": {
+    "test_accuracy": 0.9304,
+    "balanced_accuracy": 0.9111,
+    "top5_accuracy": 0.982,
+    "num_classes": 246
+  },
+  "created_at": "2025-12-04T22:25:11.848441"
+}
