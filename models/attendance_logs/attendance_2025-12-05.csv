@@ -1,0 +1,2 @@
+timestamp,iris_id,name,department,employee_id,confidence,status,entry_type
+2025-12-05T03:03:32.813888,105,Subject_105,Auto-enrolled,EMP105,0.3335,EARLY,CHECK_IN
