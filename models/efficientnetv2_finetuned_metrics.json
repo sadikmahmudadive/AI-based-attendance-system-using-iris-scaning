@@ -1,8 +1,8 @@
 {
-  "test_accuracy": 0.8247422575950623,
-  "balanced_accuracy": 0.8153961136023917,
-  "macro_f1": 0.7865654027089004,
-  "test_top5_accuracy": 0.9536082744598389,
+  "test_accuracy": 0.9304123520851135,
+  "balanced_accuracy": 0.9110612855007474,
+  "macro_f1": 0.8868516156462586,
+  "test_top5_accuracy": 0.9819587469100952,
   "n_train": 1810,
   "n_val": 388,
   "n_test": 388,
